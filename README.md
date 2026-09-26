@@ -113,6 +113,6 @@ Backend development experiments and learning material as I explore server-side d
 
 <br>
 
-<img src="./hd-about-this-page.svg" width="620" alt="About this page">
+<img src="./hd-about-this-page.svg" width="620" alt="">
 
 
